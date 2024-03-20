@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.35f82dc0.css",
+    "main.js": "./static/js/main.a78ed739.js",
+    "static/media/colerenacido.JPG": "./static/media/colerenacido.88908a9eddcd703f7218.JPG",
+    "static/media/cfwcd.png": "./static/media/cfwcd.3a1046c97c3472839ddd.png",
+    "static/media/timeless.png": "./static/media/timeless.8774252358aa09f76337.png",
+    "static/media/anis.png": "./static/media/anis.f64ea5b0f874f4c3f108.png",
+    "static/media/colerenacido.png": "./static/media/colerenacido.0c44ebf230cd6e2335b6.png",
+    "static/media/asincole.png": "./static/media/asincole.6cf4f5da3fd882f3a0fe.png",
+    "static/media/reactlogo.png": "./static/media/reactlogo.7ebecb3addea7f098f06.png",
+    "static/media/css3logo.png": "./static/media/css3logo.9407ad358cdb22b8b1f0.png",
+    "static/media/wordpresslogo.png": "./static/media/wordpresslogo.cdd5bf90113ff59385c2.png",
+    "static/media/divilogo.png": "./static/media/divilogo.1adf7edeb7782f53cd2a.png",
+    "index.html": "./index.html",
+    "static/media/javascriptlogo.svg": "./static/media/javascriptlogo.ba40d6a9629bf521391e764a593f9df3.svg",
+    "static/media/git-icon.svg": "./static/media/git-icon.6e545b3c774786467110bb86ef4ff70f.svg",
+    "main.35f82dc0.css.map": "./static/css/main.35f82dc0.css.map",
+    "main.a78ed739.js.map": "./static/js/main.a78ed739.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f82dc0.css",
+    "static/js/main.a78ed739.js"
+  ]
+}
